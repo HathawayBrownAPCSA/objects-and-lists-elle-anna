@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\n\ Represents\ dogs\ \n\n\ @Anna\ Buchner\ \n\ @2021-09-20\ \n
+comment1.params=w\ n\ b\ a\ o
+comment1.target=Dog(double,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\ the\ contructor\ initializes\ values\ for\ weight,\ name,\ breed,\ age,\ owner,\ and\ calculates\n\ the\ age\ in\ dog\ years\ \n\ @param\ w\ The\ weight\ of\ the\ dog\ \n\ @param\ n\ The\ name\ of\ the\ dog\ \n\ @param\ b\ The\ breed\ of\ the\ dog\ \n\ @param\ a\ The\ age\ of\ the\ dog\ \n\ @param\ o\ The\ Owner\ of\ the\ dog\ \n\ \n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\ Returns\ a\ string\ with\ all\ of\ the\ information\ about\ the\ dog\n\ @return\ all\ the\ information\ about\ the\ dog\ \n
+comment3.params=
+comment3.target=int\ getDogYears()
+comment3.text=\ Returns\ the\ initial\ age\ multiplied\ by\ 7\ to\ give\ the\ age\ in\ dog\ years\ \n\ @return\ the\ initial\ age\ multiplied\ by\ 7\ \n
+comment4.params=newAge
+comment4.target=void\ setAge(int)
+comment4.text=\ updates\ the\ age\ of\ the\ dog\ \n\ @pararm\ newAge\ \ The\ updated\ age\ of\ the\ dog\ \n
+comment5.params=
+comment5.target=double\ getWeight()
+comment5.text=\ gets\ the\ weights\ of\ the\ dogs\ \n\ @return\ weight\ \n
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment6.text=\ gets\ names\ of\ dogs\ \n\ @return\ dog\ name\n
+numComments=7
